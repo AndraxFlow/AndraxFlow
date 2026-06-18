@@ -1,7 +1,7 @@
 # Hi, I`m Max Andronov!
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AndraxFlow&color=orange&style=flat-square" alt="Просмотры профиля" />
+  <img src="https://komarev.com/ghpvc/?username=AndraxFlow&color=7aa2f7&style=flat-square" alt="Просмотры профиля" />
 </p>
 
 ---
@@ -43,12 +43,12 @@
 ### Моя GitHub Статистика
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndraxFlow&show_icons=true&theme=radial&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraxFlow&layout=compact&theme=radial&hide_border=true" alt="Top Langs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AndraxFlow&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndraxFlow&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="48%" />
 </p>
 
 ### Как меня найти
 
 * **Telegram:** [@andrax_rilo](https://t.me/andrax_rilo)
 * **Email:** andronov4205@list.ru
-* **Резюме:** [Мой профиль на HeadHunter](https://hh.ru) *(можешь вставить сюда ссылку на свое резюме, когда откроешь его)*
+* **Резюме:** [Мой профиль на HeadHunter](https://hh.ru/resume/b88f2957ff0cf3dab60039ed1f53524d477238)
